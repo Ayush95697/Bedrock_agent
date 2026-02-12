@@ -71,7 +71,7 @@ The agent is built around a Lauki Phones carrier knowledge base containing 76 co
 - AWS Account (for Bedrock AgentCore deployment)
 - Groq API Key (get from [console.groq.com](https://console.groq.com))
 
-###Setup
+### Setup
 
 1. **Clone the repository**
    ```bash
